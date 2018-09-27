@@ -1,2 +1,1 @@
-# docker-telegraf-smartctl
-Latest telegraf with smartctl built-in
+Latest telegraf:alpine with smartctl built-in
