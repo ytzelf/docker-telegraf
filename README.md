@@ -1,1 +1,1 @@
-Latest telegraf:alpine with smartctl & ipmitools built-in
+Latest telegraf:alpine with smartctl & restic built-in
