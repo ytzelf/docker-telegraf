@@ -3,5 +3,5 @@
 # RUN apk --update add --no-cache --virtual ipmitool
 
 FROM telegraf
-RUN apt-get update && apt-get install -y --no-install-recommends smartmontools 
-RUN apt-get update && apt-get install -y --no-install-recommends nvme-cli
+RUN apt-get update && apt-get install -y --no-install-recommends smartmontools nvme-cli
+
